@@ -1,0 +1,26 @@
+.dashboard {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.summary-result {
+  display: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.summary-result div {
+  width: 45%;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
